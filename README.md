@@ -4,7 +4,7 @@ Builds of **Borat**, a personal desktop agent for macOS (Apple Silicon). The sou
 
 ## Install
 
-1. Download `Borat-<version>-arm64.dmg` from the [latest release](https://github.com/Vivek-k3/borat-releases/releases/latest).
+1. Download `Borat-<version>-arm64.dmg` from the [latest release](https://github.com/later-stuff/borat-releases/releases/latest).
 2. Open it and drag **Borat** to **Applications**.
 3. The first time, right-click Borat → **Open**. Builds are signed with Borat's own certificate, not an Apple Developer ID, so macOS asks once.
 
